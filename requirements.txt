@@ -1,0 +1,15 @@
+flask
+flask-sqlalchemy
+flask-cors
+psycopg2-binary
+langchain
+langgraph
+langchain-community
+langchain-huggingface
+langchain-ollama
+sentence-transformers
+scikit-learn
+pandas
+numpy
+joblib
+pgvector

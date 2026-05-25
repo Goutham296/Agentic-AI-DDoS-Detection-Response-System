@@ -1,0 +1,16 @@
+# Environments
+.env
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Models (GitHub has file size limits, best to ignore generated large model files)
+models/*.pkl
+
+# OS generated files
+.DS_Store
