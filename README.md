@@ -110,4 +110,3 @@ curl -X GET http://127.0.0.1:5001/api/incidents
 * **Advanced RAG:** Populate the pgvector database with thousands of MITRE ATT&CK techniques.
 
 ---
-*Developed as a portfolio project demonstrating applied AI engineering in cybersecurity.*
